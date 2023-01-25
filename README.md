@@ -70,25 +70,31 @@ ___
 ## 2020.7 기타 작성한 기사와 보고서
 > 신문 만들기 활동 등에 들어간 기사들과 개별 보고서 자료들.
 
-[원자력 발전소가 환경에 미치는 긍·부정적 영향](https://github.com/DDadeA/explain_1/files/10497776/10519.-.pdf)
-![image](https://user-images.githubusercontent.com/44233195/214536889-330367c8-618e-4886-9fb7-8d96cf95685a.png)
 
-[멘토멘티_동아리-정연호_검정_불꽃_실험.pdf](https://github.com/DDadeA/explain_1/files/10498290/re.-._.pdf)
-![image](https://user-images.githubusercontent.com/44233195/214537639-164127cf-90c9-4861-8da0-d4ea2876cae6.png)
 
-[에너지 공학 기술자](https://github.com/DDadeA/explain_1/files/10498549/10519.pdf)
-![image](https://user-images.githubusercontent.com/44233195/214545107-f45ce820-5e46-451c-b688-6f16591ed96a.png)
+> [원자력 발전소가 환경에 미치는 긍·부정적 영향](https://github.com/DDadeA/explain_1/files/10497776/10519.-.pdf)
 
-[원자력 에너지의 필요성](https://github.com/DDadeA/explain_1/files/10498567/default.pdf)
-![image](https://user-images.githubusercontent.com/44233195/214545206-74704b8c-eed2-4bb5-bde3-82cc875da7ab.png)
 
-[에너지의 미래를 추구하는 원자력 연구원.pdf](https://github.com/DDadeA/explain_1/files/10498593/default.pdf)
-![image](https://user-images.githubusercontent.com/44233195/214546098-57982e30-c7cc-4dce-aedf-b7db71e6f8cf.png)
+> 검은색 불꽃을 만드는 원리에 대해 소개하고, 구체적인 실험 단계를 안내하는 지침서
+> 
+> [멘토멘티_동아리-정연호_검정_불꽃_실험.pdf](https://github.com/DDadeA/explain_1/files/10498290/re.-._.pdf)
 
-[스털링 엔진](https://github.com/DDadeA/explain_1/files/10498127/2020.pdf)
-![image](https://user-images.githubusercontent.com/44233195/214546593-bc0cdc43-57ee-491b-a7df-0b4b4a99ba73.png)
 
-[행복한 공동체를 만들기 위한 법안 만들기.pdf](https://github.com/DDadeA/explain_1/files/10498640/default.pdf)
+> 에너지 공학 기술자 직업에 대한 보고서
+> 
+> [에너지 공학 기술자](https://github.com/DDadeA/explain_1/files/10498549/10519.pdf)
+
+
+> [원자력 에너지의 필요성](https://github.com/DDadeA/explain_1/files/10498567/default.pdf)
+
+
+> [에너지의 미래를 추구하는 원자력 연구원.pdf](https://github.com/DDadeA/explain_1/files/10498593/default.pdf)
+
+
+> [스털링 엔진 실험 보고서](https://github.com/DDadeA/explain_1/files/10498127/2020.pdf)
+
+
+> [행복한 공동체를 만들기 위한 법안 만들기.pdf](https://github.com/DDadeA/explain_1/files/10498640/default.pdf)
 
 ___
 ___
@@ -105,19 +111,19 @@ ___
 ___
 
 ## 2021.2 생명과 에너지
-### 2021.2.1 생명과 기계의 에너지 저장, 사용 방식의 비교 발표
+#### 2021.2.1 생명과 기계의 에너지 저장, 사용 방식의 비교 발표
 > ![image](https://user-images.githubusercontent.com/44233195/214583602-13da1cdb-d6cc-4c04-a738-ae04a5d42467.png)
 > ![image](https://user-images.githubusercontent.com/44233195/214582954-d68121d9-3076-414a-8f59-ae6a73144b26.png)
 
 [대본](https://github.com/DDadeA/explain_1/files/10499955/0_.pdf)과 [PPT](https://github.com/DDadeA/explain_1/files/10499956/default.pdf)가 남아있다.
 
- ### 2021.2.2 생명의 에너지 공학적 접근 – 인간을 발전기로 사용하면 어떨까? 보고서
+#### 2021.2.2 생명의 에너지 공학적 접근 – 인간을 발전기로 사용하면 어떨까? 보고서
 > 나름 재밌는 발상이라고 생각했으나, 생기부에 기재되지 않음.
 > [생명의 에너지공학적 접근.pdf](https://github.com/DDadeA/explain_1/files/10499979/0_.pdf)
 > ![image](https://user-images.githubusercontent.com/44233195/214584412-8335040d-157e-46c0-8d2f-b2577bd22834.png)
 
 
-### 2021.2.3 생명 논술 분야 융합 수행평가
+#### 2021.2.3 생명 논술 분야 융합 수행평가
 > 소의 되새김질을 예시로 들어 바이오 에너지에 대해 논술함. 
 > [자료](https://github.com/DDadeA/explain_1/files/10500007/1.1.pdf)가 남아있음.
 ___
@@ -140,11 +146,22 @@ ___
 ## 2021.5 초전도체 없이 마이스너 효과 만들기 실험
 > 초전도체는 저항이 0인 도체로서, 핵융합 기술에 사용될 수 있는 특별한 상태의 물체임. 흔히 초전도체 실험하면 떠올리는 자석을 공중부양 시키는 실험을 다른 방식으로 구현함.
 > [발표자료](https://github.com/DDadeA/explain_1/files/10500976/20921.-.pdf)
+
 > [실험영상-유튜브 링크](https://youtube.com/shorts/iZM888BhiYE)
+
 > ![image](https://user-images.githubusercontent.com/44233195/214617590-065d28bc-d8a4-462a-b588-346e5f392c60.png)
-
-
 ___
 
-## 2021. 에너지, 원자력의 날 기사
+
+
+## 2021. 기타 보고서 및 기사들
+
+> 핵에너지로 인한 죽음에 대해
 > [멘토멘티 동아리-기사 자료](https://github.com/DDadeA/explain_1/files/10500216/20921.-.%2B.-mm.pdf)
+
+> 독서 교과의 < 인공 지능과 심층학습 > 읽고, 이를 배터리나 전동 기관의 최적화에 사용할 수 있다고 생각하여 추가로 탐구한 보고서
+> [20921 정연호 - 에너지효율 극대화와 인공지능.pdf](https://github.com/DDadeA/explain_1/files/10501248/20921.-.pdf)
+
+> 중력 전지에 대한 보고서
+> [20921 정연호, 20920 이향-중력 전지에 대한 보고서.pdf](https://github.com/DDadeA/explain_1/files/10501483/20921.20920.-.pdf)
+
