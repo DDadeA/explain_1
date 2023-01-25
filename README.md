@@ -1,4 +1,4 @@
-### ※ 공학 관련 자료만 실었습니다.
+### ※ 핵, 에너지 관련 자료만 실었습니다.
 
 # 목차
 - [2020](https://github.com/DDadeA/explain_1/edit/main/README.md#1-2020)
@@ -120,13 +120,31 @@ ___
 ### 2021.2.3 생명 논술 분야 융합 수행평가
 > 소의 되새김질을 예시로 들어 바이오 에너지에 대해 논술함. 
 > [자료](https://github.com/DDadeA/explain_1/files/10500007/1.1.pdf)가 남아있음.
+___
 
-## 2021.3 에너지, 원자력의 날 기사
-> [멘토멘티 동아리-기사 자료](https://github.com/DDadeA/explain_1/files/10500216/20921.-.%2B.-mm.pdf)
-
-## 2021.4 표준모형 발표
+## 2021.3 표준모형 발표
 > CA동아리 물리탐구반에서 발표한 표준모형 내용. 뮤온 g-2 실험을 통해 표준모형의 불완전성이 발견된 소식을 접하고, 이에 대해 소개함.
 > ![image](https://user-images.githubusercontent.com/44233195/214596833-0ebffec5-b953-4e69-85d2-3685de571172.png)
 
 > [CA-20921 표준모형.pdf](https://github.com/DDadeA/explain_1/files/10500409/CA-20921.pdf)
+___
 
+## 2021.4 우주 전기 생산 발표
+> 영어 교과 본문 5과 “우주에서 식물을 기르는 방법”을 읽고 준비한 발표 자료.
+> [대본](https://github.com/DDadeA/explain_1/files/10500634/2-20921.-.pdf)과 [PPT](https://github.com/DDadeA/explain_1/files/10500638/2-20921.-.-.pdf)가 남아있음.
+> ![image](https://user-images.githubusercontent.com/44233195/214600799-20b91f57-e03a-4532-a2b5-26d450370864.png)
+
+>![image](https://user-images.githubusercontent.com/44233195/214600532-da80dcb8-58c0-4106-8b52-2574cf6be3d0.png)
+___
+
+## 2021.5 초전도체 없이 마이스너 효과 만들기 실험
+> 초전도체는 저항이 0인 도체로서, 핵융합 기술에 사용될 수 있는 특별한 상태의 물체임. 흔히 초전도체 실험하면 떠올리는 자석을 공중부양 시키는 실험을 다른 방식으로 구현함.
+> [발표자료](https://github.com/DDadeA/explain_1/files/10500976/20921.-.pdf)
+> [실험영상-유튜브 링크](https://youtube.com/shorts/iZM888BhiYE)
+> ![image](https://user-images.githubusercontent.com/44233195/214617590-065d28bc-d8a4-462a-b588-346e5f392c60.png)
+
+
+___
+
+## 2021. 에너지, 원자력의 날 기사
+> [멘토멘티 동아리-기사 자료](https://github.com/DDadeA/explain_1/files/10500216/20921.-.%2B.-mm.pdf)
