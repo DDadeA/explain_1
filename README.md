@@ -75,6 +75,14 @@ ___
 [멘토멘티_동아리-정연호_검정_불꽃_실험.pdf](https://github.com/DDadeA/explain_1/files/10498290/re.-._.pdf)
 ![image](https://user-images.githubusercontent.com/44233195/214537639-164127cf-90c9-4861-8da0-d4ea2876cae6.png)
 
+[에너지 공학 기술자](https://github.com/DDadeA/explain_1/files/10498549/10519.pdf)
+![image](https://user-images.githubusercontent.com/44233195/214545107-f45ce820-5e46-451c-b688-6f16591ed96a.png)
 
+[원자력 에너지의 필요성](https://github.com/DDadeA/explain_1/files/10498567/default.pdf)
+![image](https://user-images.githubusercontent.com/44233195/214545206-74704b8c-eed2-4bb5-bde3-82cc875da7ab.png)
+
+[에너지의 미래를 추구하는 원자력 연구원.pdf](https://github.com/DDadeA/explain_1/files/10498593/default.pdf)
+![image](https://user-images.githubusercontent.com/44233195/214546098-57982e30-c7cc-4dce-aedf-b7db71e6f8cf.png)
 
 [스털링 엔진](https://github.com/DDadeA/explain_1/files/10498127/2020.pdf)
+![image](https://user-images.githubusercontent.com/44233195/214546593-bc0cdc43-57ee-491b-a7df-0b4b4a99ba73.png)
