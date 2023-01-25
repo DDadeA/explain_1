@@ -1,4 +1,4 @@
-### ※ 핵, 에너지 관련 자료만 실었습니다.
+### ※ 핵, 에너지 관련 자료만 있습니다. 학년이 올라갈수록 전공적합성이 높고 장기적인 프로젝트만 남기고, 나머지는 수록하지 않았습니다.
 
 # 목차
 - [2020](https://github.com/DDadeA/explain_1/blob/main/README.md#2020)
@@ -169,3 +169,34 @@ ___
 > 중력 전지에 대한 보고서
 > [20921 정연호, 20920 이향-중력 전지에 대한 보고서.pdf](https://github.com/DDadeA/explain_1/files/10501483/20921.20920.-.pdf)
 
+___
+___
+
+# 2022
+## 2022.1 핵융합로 프로젝트
+> IEC 방식의 융합로를 제작하여 플라즈마를 보는 것을 목적으로 진행한 초장기 프로젝트. 평생 진행한 것 중 가장 공을 들였다.
+> [대본](https://github.com/DDadeA/explain_1/files/10501762/IEC.pdf)과 [PPT](https://github.com/DDadeA/explain_1/files/10501769/default.pdf)
+
+https://user-images.githubusercontent.com/44233195/214634221-4f181fa8-71b9-4724-a9e9-e1078cf03946.mp4
+___
+
+## 2022.2 무선전력송신 프로젝트
+> 선 없이 전기 에너지를 전송하기 위해서 진행한 다중 프로젝트. 무전기, 무선 충전기, 테슬라코일 순으로 진행했다.
+> [설명글-링크](https://github.com/DDadeA/Several-experiments-on-wireless-current-transmission-technology/blob/main/README.md)
+> ![image](https://user-images.githubusercontent.com/44233195/214636369-a2e3fd7f-f1e6-4224-8fc5-65272b17e24a.png)
+
+___
+
+## 2022.3 Cloud Chamber
+> 간단하게 만들 수 있는 입자 관측기. 여러번의 시행착오 끝에 알파입자 관측에 성공함.
+> [대본](https://github.com/DDadeA/explain_1/files/10502018/Cloud.Chamber.pdf)과 [PPT](https://github.com/DDadeA/explain_1/files/10502024/1.pdf)가 있다.
+https://user-images.githubusercontent.com/44233195/214639976-5b704370-2847-4f07-8d0d-92925c1612c3.mp4
+
+___
+
+## 2022.4 기타 기사 및 보고서
+> [생명-우리는 양자역학으로 이루어져 있다.pdf](https://github.com/DDadeA/explain_1/files/10502054/default.pdf)
+> 
+> [연료전지_FUEL CELL .pdf](https://github.com/DDadeA/explain_1/files/10502059/30925.-.FUEL.CELL.pdf)
+>
+> 
