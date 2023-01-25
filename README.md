@@ -195,14 +195,19 @@ ___
 
 # 2022
 ## 2022.1 핵융합로 프로젝트
-> IEC 방식의 융합로를 제작하여 플라즈마를 보는 것을 목적으로 진행한 초장기 프로젝트. 평생 진행한 것 중 가장 공을 들였다.
+> IEC 방식의 융합로를 제작하여 플라즈마를 보는 것을 목적으로 진행한 초장기 프로젝트. 
+> 
+> 평생 진행한 것 중 가장 공을 들였다.
 > [대본](https://github.com/DDadeA/explain_1/files/10501762/IEC.pdf)과 [PPT](https://github.com/DDadeA/explain_1/files/10501769/default.pdf)
 
 https://user-images.githubusercontent.com/44233195/214634221-4f181fa8-71b9-4724-a9e9-e1078cf03946.mp4
 ___
 
 ## 2022.2 무선전력송신 프로젝트
-> 선 없이 전기 에너지를 전송하기 위해서 진행한 다중 프로젝트. 무전기, 무선 충전기, 테슬라코일 순으로 진행했다.
+> 선 없이 전기 에너지를 전송하기 위해서 진행한 다중 프로젝트. 
+> 
+> 무전기, 무선 충전기, 테슬라코일 순으로 진행했다.
+> 
 > [설명글-링크](https://github.com/DDadeA/Several-experiments-on-wireless-current-transmission-technology/blob/main/README.md)
 > 
 https://user-images.githubusercontent.com/44233195/184552776-ec1d169d-6c97-4f87-bd84-f3e98ab82847.mp4
