@@ -1,9 +1,9 @@
 ### ※ 핵, 에너지 관련 자료만 실었습니다.
 
 # 목차
-- [2020](https://github.com/DDadeA/explain_1/edit/main/README.md#1-2020)
-- [2021](https://github.com/DDadeA/explain_1/edit/main/README.md#1-2021)
-- [2022](https://github.com/DDadeA/explain_1/edit/main/README.md#1-2022)
+- [2020](https://github.com/DDadeA/explain_1/blob/main/README.md#2020)
+- [2021](https://github.com/DDadeA/explain_1/blob/main/README.md#2021)
+- [2022](https://github.com/DDadeA/explain_1/blob/main/README.md#2022)
 ___
 ___
 # 2020
